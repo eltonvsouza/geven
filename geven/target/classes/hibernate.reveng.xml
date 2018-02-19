@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+<!--	<table-filter match-catalog="geven" match-name="agenda"/>-->
+<!--	<table-filter match-catalog="geven" match-name="cliente"/>-->
+<!--	<table-filter match-catalog="geven" match-name="compra"/>-->
+<!--	<table-filter match-catalog="geven" match-name="compraitem"/>-->
+<!--	<table-filter match-catalog="geven" match-name="configuracao"/>-->
+<!--	<table-filter match-catalog="geven" match-name="contasapagar"/>-->
+<!-- 		<table-filter match-catalog="geven" match-name="contasareceber"/> -->
+<!--	<table-filter match-catalog="geven" match-name="fornecedor"/>-->
+<!--	<table-filter match-catalog="geven" match-name="funcionario"/>-->
+<!--	<table-filter match-catalog="geven" match-name="geral"/>-->
+<!--	<table-filter match-catalog="geven" match-name="parcelasapagar"/>-->
+<!-- 		<table-filter match-catalog="geven" match-name="parcelasareceber"/> -->
+<!--	<table-filter match-catalog="geven" match-name="produto"/>-->
+<!--	<table-filter match-catalog="geven" match-name="tipofuncionario"/>-->
+<!--	<table-filter match-catalog="geven" match-name="transportadora"/>-->
+<!--	<table-filter match-catalog="geven" match-name="uf"/>-->
+<!--	<table-filter match-catalog="geven" match-name="unidade"/>-->
+<!--	<table-filter match-catalog="geven" match-name="usuario"/>-->
+<!--	<table-filter match-catalog="geven" match-name="venda"/>-->
+<!--	<table-filter match-catalog="geven" match-name="vendaitem"/>-->
+</hibernate-reverse-engineering>
